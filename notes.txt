@@ -1,0 +1,5 @@
+1) Babel -  Main job is to take the es6 and es7 JavaScript code and convert it to es5 code. It also compiles JSX to es5 JavaScript
+
+2) Babel needs some presets - this presets are required to convert the jsx to javascript, those presets are env and react. These can be installed by 
+"babel-preset-env": "1.5.2",
+"babel-preset-react": "6.24.1"
